@@ -3,7 +3,7 @@ author = "as"
 themeDir = "themes"
 publishDir = "docs"
 theme = "blackburn"
-baseurl = "/"
+baseurl = "https://milu1chodvadiya.github.io/myhugosite/"
 # Shown in the side menu
 copyright = "&copy; 2016. All rights reserved."
 canonifyurls = true
