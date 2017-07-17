@@ -1,6 +1,7 @@
 title = "Milan Site"
 author = "as"
 themeDir = "themes"
+publishDir = "docs"
 theme = "blackburn"
 baseurl = "/"
 # Shown in the side menu
