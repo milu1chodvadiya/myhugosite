@@ -3,8 +3,13 @@
   
   <url>
     <loc>https://milu1chodvadiya.github.io/myhugosite/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://milu1chodvadiya.github.io/myhugosite/post/adad/</loc>
+    <lastmod>2017-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -15,31 +20,6 @@
   <url>
     <loc>https://milu1chodvadiya.github.io/myhugosite/contact/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://milu1chodvadiya.github.io/myhugosite/post/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://milu1chodvadiya.github.io/myhugosite/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://milu1chodvadiya.github.io/myhugosite/post/my-post/</loc>
-    <lastmod>2017-07-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://milu1chodvadiya.github.io/myhugosite/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://milu1chodvadiya.github.io/myhugosite/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
