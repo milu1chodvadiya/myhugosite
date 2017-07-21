@@ -280,10 +280,10 @@ appears on the left side of the page.
     /*margin-left: -150px;*/ /* "#menu" width */
     /*width: 150px;
     position: fixed;*/
+    margin-left: 200px;
     top: 0;
     left: 0;
     bottom: 0;
-    margin-left: 208px;
     z-index: 1000; /* so the menu or its navicon stays above all content */
     background: #191818;
     overflow-y: auto;
