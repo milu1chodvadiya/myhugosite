@@ -1,0 +1,44 @@
+<!-- Menu toggle -->
+<a href="#menu" id="menuLink" class="menu-link">
+  <!-- Hamburger icon -->
+  <span></span>
+</a>
+  <div class="navigation">
+    {{ partial "brand.html" . }}
+    <ul>
+      {{ range (where .Site.Pages "Section" "sidebar") }}
+        <li class="has-sub"> <a href="#">{{ .Title }}</a>
+          <ul>
+            {{ range (where .Site.Pages "Section" "subsidebar") }}
+              <li><a href="{{ .URL }}">{{ .Title }}</a></li>
+            {{ end }}
+          </ul>
+        </li>
+      {{ end }}
+      {{ range (where .Site.Pages "Section" "carrear") }}
+        <li class="has-sub"><a href="#">{{ .Title }}</a>
+          <ul>
+            {{ range (where .Site.Pages "Section" "subcarrear") }}
+              <li><a href="{{ .URL }}">{{ .Title }}</a></li>
+            {{ end }}
+          </ul>
+        </li>
+      {{ end }}
+
+      <!-- <li class="has-sub"> <a href="#">Menu 2</a>
+        <ul>
+          <li><a href="#">Submenu 2.1</a></li>
+          <li><a href="#">Submenu 2.2</a></li>
+        </ul>
+      </li>
+      <li class="has-sub"> <a href="#">Menu 3</a>
+        <ul>
+          <li><a href="#">Submenu 3.1</a></li>
+          <li><a href="#">Submenu 3.2</a></li>
+        </ul>
+      </li> -->
+    </ul>
+<!--  {{ partial "social.html" . }} -->
+
+<!--  {{ partial "copyright.html" . }}-->
+</div>

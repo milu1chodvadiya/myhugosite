@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Subcarrears on Blackburn Demo Site</title>
+    <link>https://digspinat.github.io/black/subcarrear/</link>
+    <description>Recent content in Subcarrears on Blackburn Demo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016. All rights reserved.</copyright>
+    <lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://digspinat.github.io/black/subcarrear/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Another Carrear</title>
+      <link>https://digspinat.github.io/black/another-carrear</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://digspinat.github.io/black/another-carrear</guid>
+      <description>&lt;p&gt;Another Carrear&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

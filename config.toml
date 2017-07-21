@@ -1,10 +1,10 @@
-title = "Milan Site"
-author = "as"
-themeDir = "themes"
-publishDir = "docs"
+baseurl = "https://digspinat.github.io/black/"
+languageCode = "en-us"
 theme = "blackburn"
-baseurl = "https://milu1chodvadiya.github.io/myhugosite/"
-# Shown in the side menu
+title = "Blackburn Demo Site"
+themesDir = "themes"
+publishDir = "docs"
+author = "Yoshiharu Yamashita"
 copyright = "&copy; 2016. All rights reserved."
 canonifyurls = true
 paginate = 10
@@ -13,42 +13,40 @@ paginate = 10
   tag = "tags"
   topic = "topics"
 
-  [params]
-    # Shown in the home page
-    subtitle = "We are Smart"
-    brand = "PistAlix"
-    googleAnalytics = "Your Google Analytics tracking ID"
-    disqus = "Your Disqus shortname"
-    # CSS name for highlight.js
-    highlightjs = "androidstudio"
-    dateFormat = "02 Jan 2006, 15:04"
+[params]
+  # Shown in the home page
+  subtitle = "A Hugo Theme"
+  brand = "Blackburn"
+  googleAnalytics = "Your Google Analytics tracking ID"
+  disqus = "Your Disqus shortname"
+  # CSS name for highlight.js
+  highlightjs = "androidstudio"
+  dateFormat = "02 Jan 2006, 15:04"
 
 [menu]
-      # Shown in the side menu.
-    [[menu.main]]
-      name = "Home"
-      pre = "<i class='fa fa-home fa-fw'></i>"
-      weight = 0
-      identifier = "home"
-      url = "/"
-    [[menu.main]]
-      name = "Posts"
-      pre = "<i class='fa fa-list fa-fw'></i>"
-      weight = 1
-      identifier = "post"
-      url = "/post/"
-    [[menu.main]]
-      name = "About"
-      pre = "<i class='fa fa-user fa-fw'></i>"
-      weight = 2
-      identifier = "about"
-      url = "/about/"
-    [[menu.main]]
-      name = "Contact"
-      pre = "<i class='fa fa-phone fa-fw'></i>"
-      weight = 3
-      url = "/contact/"
-
+  # Shown in the navbar menu.
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 0
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 1
+    identifier = "post"
+    url = "/post/"
+  [[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 2
+    identifier = "about"
+    url = "/about/"
 [social]
-      twitter = "www.twitter.com"
-      facebook = "www.fb.com"
+  twitter = "*"
+  facebook = "*"
+  instagram = "*"
+  github = "yoshiharuyamashita"
+  stackoverflow = "*"
+  linkedin = "*"

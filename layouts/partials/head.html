@@ -3,13 +3,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="{{ if .IsNode }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ else }}{{ with .Description }}{{ . }}{{ end }}{{ end }}">
   {{.Hugo.Generator}}
-
+  <meta content="{{ delimit .Keywords ", " }}" name="keywords">
   <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}</title>
-
+  <meta content="hello" name="keywords">
   <!-- CSS -->
+  <!-- Latest compiled and minified CSS -->
   {{ $purecss := "https://cdnjs.cloudflare.com/ajax/libs/pure/0.6.2/" }}
   <link rel="stylesheet" href="{{ $purecss }}pure-min.css">
-
+  {{ if isset .Params "seometatags" }}
+      {{ .Params.seometatags | safeHTML }}
+  {{ end }}
   {{ "<!--[if lte IE 8]>" | safeHTML }}
   <link rel="stylesheet" href="{{ $purecss }}grids-responsive-old-ie-min.css">
   {{ "<![endif]-->" | safeHTML }}

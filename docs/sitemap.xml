@@ -2,24 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://milu1chodvadiya.github.io/myhugosite/</loc>
-    <lastmod>2017-07-17T00:00:00+00:00</lastmod>
+    <loc>https://digspinat.github.io/black/</loc>
+    <lastmod>2017-07-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://milu1chodvadiya.github.io/myhugosite/post/adad/</loc>
+    <loc>https://digspinat.github.io/black/another-carrear</loc>
+    <lastmod>2017-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://digspinat.github.io/black/carrear</loc>
+    <lastmod>2017-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://digspinat.github.io/black/another-submenu</loc>
     <lastmod>2017-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://milu1chodvadiya.github.io/myhugosite/about/</loc>
+    <loc>https://digspinat.github.io/black/one-more</loc>
+    <lastmod>2017-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://digspinat.github.io/black/sidebar</loc>
+    <lastmod>2017-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://digspinat.github.io/black/sidebar-2</loc>
+    <lastmod>2017-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://digspinat.github.io/black/about/</loc>
+    <lastmod>2017-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://digspinat.github.io/black/post/first-post/</loc>
+    <lastmod>2017-07-01T16:07:46+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://digspinat.github.io/black/contact/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://milu1chodvadiya.github.io/myhugosite/contact/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <loc>https://digspinat.github.io/black/post/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://digspinat.github.io/black/post/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://digspinat.github.io/black/post/E%20First%20Post%20jan/</loc>
+    <lastmod>2017-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://digspinat.github.io/black/post/E%202nd%20post%20ssfasfasf/</loc>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://digspinat.github.io/black/post/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://digspinat.github.io/black/post/E%20Test%20post%20JAN/</loc>
+    <lastmod>2017-07-04T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
